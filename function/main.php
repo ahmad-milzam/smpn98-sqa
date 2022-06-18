@@ -3,7 +3,7 @@ ob_start();
 
 function base($folder)
 {
-	$url = "http://localhost/smpn98/".$folder;
+	$url = "http://localhost/smpn98-sqa/".$folder;
 
 	return $url;
 }
